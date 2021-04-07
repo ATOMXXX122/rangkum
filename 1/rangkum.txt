@@ -1,0 +1,15 @@
+Nim : 1811500047
+Nama : Ichsan Iofani
+Kelompok : TI6A
+
+hasil saya menyadur.
+
+1. belajar sopan santun dalam beretika pada saat meminta tolong / menghubungi seseorang 
+2. setiap pertemuan ada tugas 
+3. nilai di dapat dari saduran 
+4. besar nilai di dapat adri kualitas saduran 
+5. belajar github untuk membuat saduran
+6. membuat kelompok dari 3 orang
+7. saduran berupa format .txt
+8. Screnshot hasil menyadur jika di anggap penting
+9. mengubah ke html yaitu dengan cara merubah nama .txt menjadi index.html lalu di commit
