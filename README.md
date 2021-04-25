@@ -1,8 +1,8 @@
 # rangkum
 Berisi saduran matakuliah Analisa dan Perancangan PL<br>
-Nim : 1811500047
-Nama : Ichsan Sofani
-Kelompok : TI6A
+Nim : 1811500047<br>
+Nama : Ichsan Sofani<br>
+Kelompok : TI6A<br>
 
 1. studi kasus 
 2. analisi masalah dan jalan keluar masalah
