@@ -1,5 +1,5 @@
 # rangkum
-Berisi saduran matakuliah Analisa dan Perancangan PL
+Berisi saduran matakuliah Analisa dan Perancangan PL<br>
 Nim : 1811500047
 Nama : Ichsan Sofani
 Kelompok : TI6A
