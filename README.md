@@ -12,3 +12,5 @@ Kelompok : TI6A<br>
 6. mengunakan software astacommonity
 
 <img width="576" alt="activity berjalan" src="https://user-images.githubusercontent.com/76177396/116238877-28668700-a78c-11eb-81b3-e07b4dbf6f75.png">
+<br><br>
+Hasil project astah <a href="AD Berjalan.astah" target="blank">Download</a>
