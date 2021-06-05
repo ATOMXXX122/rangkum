@@ -1,3 +1,3 @@
-nama : ichsan sofani
-kelas : TI6A
-nim : 1811500047
+nama : ichsan sofani<br>
+kelas : TI6A<br>
+nim : 1811500047<br>
